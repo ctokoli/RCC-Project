@@ -475,6 +475,9 @@ width: 150px;
   font-size: 30px;
   text-decoration: none;
   color: white;
+  width: 900px;
+  margin: 0 auto;
+  padding-top: 30px;
 }
 
 .Empty{
@@ -1217,7 +1220,6 @@ box-sizing: content-box;
 }
 
 form.form {
-  width: 360px;
   background: white;
   color: grey;
   text-align: left;
@@ -1241,8 +1243,23 @@ textarea {
   border: 1px solid #bababa;
 }
 
+.form-cont h3 {
+  padding-top: 47px;
+  padding-bottom: 10px;
+}
+
+.submit{
+  width: 100%;
+  padding: 10px;
+  background-color: #8e8eff;
+  color: #fff;
+  font-size: 16px;
+  border-radius: 5px;
+  border: none;
+}
+
 .inside-form{
-  width: 360px;
+  width: 440px;
   margin: 0 auto;
   padding-bottom: 70px;
 }
