@@ -1212,6 +1212,14 @@ box-sizing: content-box;
   margin: 0px;
 }
 
+form.form {
+  width: 499px;
+  margin: 0 auto;
+  background: white;
+  color: grey;
+  text-align: left;
+}
+
 .Offers-Packages{
   text-align: center;
   font-family: 'Times New Roman';
