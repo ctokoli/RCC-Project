@@ -1149,8 +1149,11 @@ box-sizing: content-box;
 }
 
 .ReviewsInfo{
-  text-align: center;
-  font-family: 'Times New Roman';
+    color: white;
+    margin: 0 auto;
+    width: 900px;
+    text-align: center;
+    font-family: 'Times New Roman';
 }
 
 .ReviewsInfo h3{
@@ -1162,6 +1165,15 @@ box-sizing: content-box;
 .ReviewsInfo h1{
   color: white;
   text-decoration: none;
+}
+
+.ReviewsInfo p{
+  font-size: large;
+}
+
+.review-intro img {
+  width: 46px;
+  border-radius: 50%;
 }
 
 .Offers-Packages{
