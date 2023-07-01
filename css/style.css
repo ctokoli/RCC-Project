@@ -1176,12 +1176,12 @@ box-sizing: content-box;
   background: #fff;
   color: gray;
   padding: 21px;
-  margin: 20px 20px 0px 0;
-  box-shadow: 2px 2px 5px grey;
+  margin: 20px 20px 20px 0;
+  box-shadow: 2px 2px 7px rgb(106 106 106);
+  border-radius: 5px;
 }
 
 .review-content {
-  background: white;
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
@@ -1204,6 +1204,8 @@ box-sizing: content-box;
 .review-intro img {
   width: 46px;
   border-radius: 50%;
+  box-shadow: 1px 1px 1px 0px rgb(217, 217, 217);
+  border: 1px solid #dfdfdf;
 }
 
 .profile-details h4, p {
