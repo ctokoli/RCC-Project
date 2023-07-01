@@ -1212,12 +1212,44 @@ box-sizing: content-box;
   margin: 0px;
 }
 
+.form-cont {
+  background: #8e8eff;
+}
+
 form.form {
-  width: 499px;
-  margin: 0 auto;
+  width: 360px;
   background: white;
   color: grey;
   text-align: left;
+  padding: 40px;
+}
+
+.form input[type="text"]{
+  display: block;
+    width: 350px;
+    height: 36px;
+    margin: 10px 0;
+    border-radius: 5px;
+    border: 1px solid #bababa;
+}
+
+textarea {
+  width: 350px;
+  height: 130px;
+  margin: 25px 0;
+  border-radius: 5px;
+  border: 1px solid #bababa;
+}
+
+.inside-form{
+  width: 360px;
+  margin: 0 auto;
+  padding-bottom: 70px;
+}
+
+label.comment {
+  position: absolute;
+  padding-top: 17px;
 }
 
 .Offers-Packages{
