@@ -1167,6 +1167,18 @@ box-sizing: content-box;
   text-decoration: none;
 }
 
+.review-intro {
+  width: 300px;
+  display: flex;
+  background: white;
+  color: gray;
+  padding: 21px;
+}
+
+.review-intro img {
+  margin-right: 10px;
+}
+
 .ReviewsInfo p{
   font-size: large;
 }
@@ -1174,6 +1186,10 @@ box-sizing: content-box;
 .review-intro img {
   width: 46px;
   border-radius: 50%;
+}
+
+.profile-details h4, p {
+  margin: 0px;
 }
 
 .Offers-Packages{
