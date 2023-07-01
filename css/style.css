@@ -1168,11 +1168,29 @@ box-sizing: content-box;
 }
 
 .review-intro {
-  width: 300px;
   display: flex;
-  background: white;
+}
+
+.card{
+  width: 300px;
+  background: #fff;
   color: gray;
   padding: 21px;
+  margin: 20px 20px 0px 0;
+  box-shadow: 2px 2px 5px grey;
+}
+
+.review-content {
+  background: white;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin-top: 60px;
+}
+
+.card p {
+  text-align: left;
+  margin-top: 5px;
 }
 
 .review-intro img {
