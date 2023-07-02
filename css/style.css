@@ -480,6 +480,27 @@ width: 150px;
   padding-top: 30px;
 }
 
+.items ul {
+  display: flex;
+  justify-content: space-between;
+  background-color: #8787c7;;
+  align-items: center;
+  font-size: 18px;
+}
+
+.items ul li{
+  list-style: none;
+}
+
+.item-table{
+  display: flex;
+}
+
+.item-table li{
+  padding: 10px 5px 10px 42px;
+}
+
+
 .Empty{
   font-family: 'Times New Roman';
   text-align: right;
