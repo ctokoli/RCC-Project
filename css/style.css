@@ -530,6 +530,35 @@ width: 150px;
   cursor: pointer;
 }
 
+.camping-item img {
+ width: 130px;
+}
+
+.camping-item{
+ font-size: 16px;
+}
+
+.add-cart{
+
+}
+
+.camping-item {
+ width: 190px;
+ text-align: center;
+ padding: 10px 0;
+ border: 1px solid;
+}
+
+.add-cart input {
+ width: 37px;
+ height: 20px;
+ padding-left: 9px;
+}
+
+.add-cart button {
+ padding: 4px 9px;
+}
+
 .Camping{
   font-family: 'Times New Roman';
   text-align: center;
