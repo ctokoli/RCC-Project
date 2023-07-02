@@ -500,6 +500,19 @@ width: 150px;
   padding: 10px 5px 10px 42px;
 }
 
+.table-below ul {
+  background-color: transparent;
+  justify-content: flex-end;
+}
+
+.table-below ul  li{
+  padding: 10px 5px 10px 65px;
+}
+
+.total{
+  position: relative;
+  right: 122px;
+}
 
 .Empty{
   font-family: 'Times New Roman';
