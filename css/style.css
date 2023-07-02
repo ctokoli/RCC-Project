@@ -514,6 +514,12 @@ width: 150px;
   right: 122px;
 }
 
+.camping-products h2 {
+ border-bottom: 1px solid;
+ padding-bottom: 10px;
+ margin-top: 74px;
+}
+
 .Empty{
   font-family: 'Times New Roman';
   text-align: right;
@@ -521,6 +527,7 @@ width: 150px;
   font-size: 20px;
   color: red;
   text-decoration: none;
+  cursor: pointer;
 }
 
 .Camping{
