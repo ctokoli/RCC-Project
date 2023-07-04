@@ -196,7 +196,6 @@ width: 150px;
 
  /* Discount */
  .Discount1{
-  float:left;
   width: 29%;
   margin: 1%;
   background-color: white;
@@ -234,7 +233,6 @@ width: 150px;
  }
 
  .Discount2{
-  float:left;
   width: 30%;
   margin: 1%;
   background-color: white;
@@ -272,7 +270,6 @@ width: 150px;
  }
 
  .Discount3{
-  float:left;
   width: 30%;
   margin: 1%;
   background-color: white;
@@ -281,7 +278,10 @@ width: 150px;
   border-radius: 10px;
   box-shadow: grey;
   box-sizing: content-box;
+ }
 
+ .float{
+  display: flex;
  }
 
  .Discount3 img{
@@ -538,9 +538,7 @@ width: 150px;
  font-size: 16px;
 }
 
-.add-cart{
 
-}
 
 .add-cart {
  padding-top: 10px;
@@ -1744,6 +1742,11 @@ text-decoration: none;
   .topnav a.icon {
     float: right;
     display: block;
+  }
+
+  .float{
+    display: flex;
+    flex-direction: column;
   }
 }
 
