@@ -280,10 +280,6 @@ width: 150px;
   box-sizing: content-box;
  }
 
- .float{
-  display: flex;
- }
-
  .Discount3 img{
   width: 300px;
  }
@@ -395,10 +391,9 @@ width: 150px;
 
 .update{
   text-align: center;
-  padding: 200px;
   text-decoration: none;
   font-family: 'Times New Roman', Times, serif;
-  margin: 0px;
+  margin: 50px 0;
 }
 
 .weather h4{
@@ -1748,6 +1743,26 @@ text-decoration: none;
     display: flex;
     flex-direction: column;
   }
+
+  .Back{
+    padding: 84px;
+    width: 231px;
+  }
+
+  .tomorrow {
+    padding: 28px 0;
+}
+footer{
+  padding-top: 24px;
+  width: 200px;
+  height: 100%;
+  text-align: center;
+}
+
+.contactus p {
+  text-align: center;
+  padding-top: 60px;
+}
 }
 
 
