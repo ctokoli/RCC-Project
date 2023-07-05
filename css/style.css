@@ -417,10 +417,7 @@ width: 150px;
   height: 10px;
 }
 
-.contactus{
-  text-align: right;
-  text-decoration: none;
-}
+
 
 .contactus{
   text-align: right;
@@ -1761,7 +1758,17 @@ footer{
 
 .contactus p {
   text-align: center;
-  padding-top: 60px;
+  padding-top: 3px;
+}
+
+.contactus h3 {
+  padding-top: 120px;
+  text-align: center;
+}
+
+.copyright {
+  padding-top: 207px;
+  text-align: center;
 }
 }
 
