@@ -1813,6 +1813,15 @@ form.form {
   display: flex;
   flex-direction: column;
 }
+.Promo-Item {
+  display: flex;
+  flex-direction: column;
+}
+
+.DealsItems {
+  display: flex;
+ flex-direction: column;
+}
 }
 
 
