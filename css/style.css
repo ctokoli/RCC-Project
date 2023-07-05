@@ -1800,6 +1800,19 @@ form.form {
   flex-direction: column;
 }
 
+.Furniture3 h5 {
+  margin-top: 214px;
+}
+
+.CampingEquipment {
+  display: flex;
+  flex-direction: column;
+}
+
+.Camping-Equipment {
+  display: flex;
+  flex-direction: column;
+}
 }
 
 
