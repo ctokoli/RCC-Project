@@ -1770,6 +1770,31 @@ footer{
   padding-top: 207px;
   text-align: center;
 }
+
+.ReviewsInfo{
+  width: 400px;
+}
+
+form.form {
+  padding: 9px;
+}
+
+.submit {
+  width: 352px;
+}
+
+.ReviewsInfo p {
+  padding: 0 20px;
+}
+
+.card {
+  margin: 20px 20px 0px 0;
+}
+.Furniture-Items {
+  display: flex;
+  flex-direction: column;
+}
+
 }
 
 
